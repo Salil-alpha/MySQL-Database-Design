@@ -12,11 +12,11 @@ Need and Benefits of RDBMS or Data Warehouse:
 
 The ability to store, analyse, and extract value from enormous volumes of data while maintaining access to previous data for documenting of prior patterns and choices is without a doubt the most important advantage of using this technology. Other advantages of possessing a data warehouse include the following list:
 
-1.	Information in its entirety: thanks to data management, decision-makers have access to data from a single perspective that comes from a variety of sources, together with a broad range of attributes that can be used to do analysis on this data (Osborne, 2022).
+1.	Information in its entirety: thanks to data management, decision-makers have access to data from a single perspective that comes from a variety of sources, together with a broad range of attributes that can be used to do analysis on this data.
 2.	Queries that run quickly; data warehouses make it possible to get and analyse massive volumes of aggregated data quickly and without the intervention of developers.
-3.	The quality of the data is ensured by the transformation of all of the data into a standardised format by the data warehousing systems (MUS, 2019). This ensures that the data is of the highest possible standard and accuracy at all times.
-4.	Scalability: With cloud-based data storage, it is conceivable to acquire almost infinite data retention, flexibly scale it up or down, and utilise it from anywhere in the world. Additionally, this flexibility may be scaled up or down as needed (MUS, 2019).
-5.	Cloud data warehouses make it simple to incorporate cutting-edge technology like machine learning and artificial intelligence into your operations (Osborne, 2022).
+3.	The quality of the data is ensured by the transformation of all of the data into a standardised format by the data warehousing systems. This ensures that the data is of the highest possible standard and accuracy at all times.
+4.	Scalability: With cloud-based data storage, it is conceivable to acquire almost infinite data retention, flexibly scale it up or down, and utilise it from anywhere in the world. Additionally, this flexibility may be scaled up or down as needed.
+5.	Cloud data warehouses make it simple to incorporate cutting-edge technology like machine learning and artificial intelligence into your operations.
 
 
 System Requirement for the Business Use-Case:
